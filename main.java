@@ -1,4 +1,3 @@
-// Created by M1C843L
 
 
 import java.util.Scanner;
